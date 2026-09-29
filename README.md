@@ -21,7 +21,7 @@ The output is shown in two panels:
 
 ## ✨ Features
 
-- 50 students with **unique Indian names**
+- 50 students data
 - **Unique registration numbers** from `26BAI10001` to `26BAI11300`
 - Marks between **0 and 50**, with grades from **S to F**
 - Class topper is fixed: **Anamika Sharma, 26BAI10872, 43/50 (Grade S)**
