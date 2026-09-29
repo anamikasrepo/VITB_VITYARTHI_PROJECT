@@ -1,4 +1,4 @@
-# 🎓 Student Data Sorting System
+# 🎓 Student Marks Sorting System
 
 
 BY-
