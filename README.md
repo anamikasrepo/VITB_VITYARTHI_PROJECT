@@ -105,7 +105,7 @@ S.No  Name                    Reg. No.      Marks     Grade
 ## 📁 Project Structure
 
 ```
-student-data-sorting-system/
+student-marks-sorting-system/
 ├── main.py            # Complete source code
 ├── Project_Report.docx
 └── README.md
